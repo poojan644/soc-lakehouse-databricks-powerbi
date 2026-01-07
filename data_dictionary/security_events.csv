@@ -1,0 +1,7 @@
+timestamp,event_type,severity,source_ip,username
+2025-01-01 09:12:33,LoginFailure,High,203.0.113.45,jdoe
+2025-01-01 09:15:02,LoginSuccess,Low,10.0.0.5,asmith
+2025-01-01 09:18:45,MalwareDetected,Critical,198.51.100.23,system
+2025-01-01 09:22:10,PortScan,Medium,192.0.2.10,unknown
+2025-01-01 09:30:55,LoginFailure,High,203.0.113.45,jdoe
+,,,,
